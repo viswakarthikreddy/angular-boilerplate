@@ -1,6 +1,6 @@
-# AngularBoilerplate
+# Angular Boilerplate with Redux State Management
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
+Angular Boilerplate with Redux State Management
 
 ## Development server
 
